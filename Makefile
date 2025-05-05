@@ -1,4 +1,4 @@
-TARGET_EXEC := ced
+TARGET_EXEC := minimacs
 
 CC := gcc
 BUILD_DIR := build
